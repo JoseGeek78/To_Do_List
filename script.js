@@ -43,6 +43,4 @@ const renderOrderedTasks = () => {
 };
 
 
-
-
 setDate();
