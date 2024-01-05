@@ -98,7 +98,6 @@ input:focus {
     color: var(--light);
 }
 
-
 .task {
     background-color: var(--primary);
     padding: 15px;
